@@ -19,7 +19,7 @@ export const menuItems = [
     id: 3,
     name: "Bakwan Goreng",
     price: 5000,
-    description: "Campuran sayuran segar dalam balutan tepung yang digoreng renyah—camilan sejuta umat yang selalu bikin nagih!",
+    description: "4 pcs Campuran sayuran segar dalam balutan tepung yang digoreng renyah—camilan sejuta umat yang selalu bikin nagih!",
     category: "Makanan",
     image: "/images/bakwan.jpg"
   },
